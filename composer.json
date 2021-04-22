@@ -2,12 +2,25 @@
     "name": "gavoronok30/laravel-entity-file-table",
     "description": "laravel entity file table",
     "type": "library",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
-            "name": "gavoronok30",
-            "email": "gavoronok30@gmail.com"
+            "name": "Gavoronok30",
+            "email": "gavoronok30@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "IT Dev Group",
+            "email": "info@it-devgroup.com",
+            "role": "Provider"
         }
+    ],
+    "keywords": [
+        "laravel",
+        "lumen",
+        "file",
+        "it-devgroup"
     ],
     "require": {
         "php": "^7.4|^8.0",
